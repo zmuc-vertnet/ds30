@@ -1,0 +1,50 @@
+Report for Institution Code ZMUC, Resource ds30
+Usage stats for February, 2015, generated on 2015/03/08
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 0
+Number of records retrieved in searches: 0
+Number of different countries where searches have been originated: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 326 download events in this period)
+Total number of records downloaded: 10 (out of 4108714 records downloaded for all resources in this period)
+Total number of unique records downloaded: 10
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Anura" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 1
+Total number of records retrieved from searches: 6
+Number of download events that retrieved data from the resource: 3
+Total number of records downloaded: 13
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1
+Total number of records retrieved from searches: 6
+Number of download events that retrieved data from the resource: 3
+Total number of records downloaded: 13
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
