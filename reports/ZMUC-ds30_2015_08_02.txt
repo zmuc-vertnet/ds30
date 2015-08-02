@@ -1,0 +1,55 @@
+Report for Institution Code ZMUC, Resource ds30
+Usage stats for July, 2015, generated on 2015/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1
+Number of records retrieved in searches: 3
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Xenoperdix udzungwensis type:specimen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 1084 download events in this period)
+Total number of records downloaded: 25 (out of 4365690 records downloaded for all resources in this period)
+Total number of unique records downloaded: 24
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-21 ; Times: 1
+	Date: 2015-07-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "type:specimen hastypestatus:1" ; Times: 1
+	Query: "Gekkonidae" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 3
+Total number of records retrieved from searches: 10
+Number of download events that retrieved data from the resource: 5
+Total number of records downloaded: 38
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 3
+Total number of records retrieved from searches: 10
+Number of download events that retrieved data from the resource: 5
+Total number of records downloaded: 38
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
