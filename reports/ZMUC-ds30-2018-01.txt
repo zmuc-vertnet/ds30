@@ -1,0 +1,34 @@
+Report for Institution Code ZMUC, Resource ds30
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 3
+Number of records retrieved in searches: 42
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-04 ; Times: 1
+	Date: 2018-01-17 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "gbifdatasetid:86523cda-f762-11e1-a439-00145eb45e9a" ; Times: 1
+	Query: "(bird) institutioncode:ZMUC" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 1398 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
