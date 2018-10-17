@@ -1,0 +1,43 @@
+Report for Institution Code ZMUC, Resource ds30
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 7
+Number of records retrieved in searches: 31
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-04 ; Times: 1
+	Date: 2018-09-24 ; Times: 1
+	Date: 2018-09-25 ; Times: 1
+	Date: 2018-09-17 ; Times: 2
+	Date: 2018-09-05 ; Times: 1
+	Date: 2018-09-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:gunningi genus:sheppardia" ; Times: 2
+	Query: "Micrelaps" ; Times: 3
+	Query: "gbifdatasetid:86523cda-f762-11e1-a439-00145eb45e9a" ; Times: 1
+	Query: "specificepithet:aurantiithorax" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 846 download events in this period)
+Total number of records downloaded: 9
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Denmark ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:aves institutioncode:ZMUC" ; Times: 1
+
+
+End of report.
