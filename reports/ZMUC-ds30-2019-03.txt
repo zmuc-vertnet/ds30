@@ -1,0 +1,34 @@
+Report for Institution Code ZMUC, Resource ds30
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 2
+Number of records retrieved in searches: 2
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-14 ; Times: 1
+	Date: 2019-03-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Atractaspis irregularis" ; Times: 1
+	Query: "Micrelaps bicoloratus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 1281 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
