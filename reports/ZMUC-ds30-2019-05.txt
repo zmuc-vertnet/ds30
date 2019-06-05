@@ -1,0 +1,32 @@
+Report for Institution Code ZMUC, Resource ds30
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 2
+Number of records retrieved in searches: 2
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Micrelaps" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 940 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
