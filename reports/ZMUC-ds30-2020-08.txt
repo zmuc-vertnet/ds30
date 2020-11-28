@@ -1,0 +1,38 @@
+Report for Institution Code ZMUC, Resource ds30
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 7
+Number of records retrieved in searches: 59
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-26 ; Times: 4
+	Date: 2020-08-13 ; Times: 2
+	Date: 2020-08-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "gbifdatasetid:86523cda-f762-11e1-a439-00145eb45e9a" ; Times: 2
+	Query: "Atractaspis irregularis" ; Times: 1
+	Query: "xenoperdix obscurata" ; Times: 1
+	Query: "xenoperdix udzungwensis" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 756 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
