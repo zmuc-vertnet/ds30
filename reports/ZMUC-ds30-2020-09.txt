@@ -1,0 +1,38 @@
+Report for Institution Code ZMUC, Resource ds30
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 3
+Number of records retrieved in searches: 8
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: Denmark ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-02 ; Times: 1
+	Date: 2020-09-23 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:batis class:aves institutioncode:ZMUC" ; Times: 1
+	Query: "zmuc xenoperdix" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 976 download events in this period)
+Total number of records downloaded: 3
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Galliformes" ; Times: 1
+
+
+End of report.
